@@ -3,7 +3,7 @@ Please outline the main purpose/core features of the project in one paragraph.
 ## Interactions with other repos
 * Use bullet points to describe any ways this project is reliant or relied upon by other in-house services.
 * be extra helpful and add links to repos
-* This project connects to the ems api over http for article data
+
 ## Getting Started
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
 ### Prerequisites
